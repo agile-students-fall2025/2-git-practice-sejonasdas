@@ -21,4 +21,3 @@ What stood out to me is not just the metaphor itself, but the idea that **techni
 Another interesting point for me is that debt management is not only about code quality, but also about **team communication**. If everyone understands which parts of the code are temporary and why, then deliberate debt can be handled responsibly. But if shortcuts are hidden or undocumented, they easily turn into reckless debt.  
 
 This perspective helped me see that sustainable development is less about avoiding debt entirely and more about **making it visible, intentional, and shared across the team**.
->>>>>>> ebaa5f4 (Add additional comment on Technical Debt (by Mavis Liu))
