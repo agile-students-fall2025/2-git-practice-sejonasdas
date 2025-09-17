@@ -10,4 +10,4 @@ I think this article is valuable because it highlights the balance every softwar
 
 Oh, this is pretty interesting. I've known about technical debt, but this is the first time I'm seeing that it can sometimes be taken on *intentionally* too (and for good reasons), as well as the distinction in the 4 types of technical debt.
 
-I think this also ties into my article about rewriting a project, which a high amount of technical debt can push towards :)
+I think this also ties into my article about [rewriting a project](https://github.com/agile-students-fall2025/2-git-practice-zs-5), which a high amount of technical debt can push towards :)
