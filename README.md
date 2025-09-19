@@ -4,6 +4,7 @@ What stood out to me is that Fowler doesn’t treat all technical debt as bad. H
 
 I think this article is valuable because it highlights the balance every software engineer faces between speed and quality. In real projects, there will always be pressure to deliver features quickly, but sustainable development means tracking the debt we create and deciding when to “repay” it. Understanding this helps teams avoid projects becoming unmaintainable over time. It also reminded me that writing clean, thoughtful code is not just about pride but it’s about making sure the whole project can keep moving forward without being dragged down by hidden costs.
 
+
 ---
 
 **Comment** (by [Zavier](https://github.com/zs-5)):
@@ -11,3 +12,12 @@ I think this article is valuable because it highlights the balance every softwar
 Oh, this is pretty interesting. I've known about technical debt, but this is the first time I'm seeing that it can sometimes be taken on *intentionally* too (and for good reasons), as well as the distinction in the 4 types of technical debt.
 
 I think this also ties into my article about [rewriting a project](https://github.com/agile-students-fall2025/2-git-practice-zs-5), which a high amount of technical debt can push towards :)
+
+## Additional Comment (by Mavis Liu)
+
+Reading [Martin Fowler’s article on Technical Debt](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html) made me reflect on my own experiences.  
+What stood out to me is not just the metaphor itself, but the idea that **technical debt is a strategic decision**. I realized that in class projects or internships, we often write “quick fixes” to meet deadlines, but the real challenge is whether the team **tracks these shortcuts** and actually comes back to refactor them.  
+
+Another interesting point for me is that debt management is not only about code quality, but also about **team communication**. If everyone understands which parts of the code are temporary and why, then deliberate debt can be handled responsibly. But if shortcuts are hidden or undocumented, they easily turn into reckless debt.  
+
+This perspective helped me see that sustainable development is less about avoiding debt entirely and more about **making it visible, intentional, and shared across the team**.
